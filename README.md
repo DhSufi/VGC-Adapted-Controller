@@ -8,7 +8,5 @@ Then using the amazing software called CameraMouse (http://www.cameramouse.org/)
 
 Tutorial coming soon. Still beta.
 
-
-![GitHub Logo](/images/logo.png)
-Format: ![Alt Text](url)
+![alt text](https://github.com/DhSufi/VGC-Adapted-Controller/example.png?raw=true)
 
