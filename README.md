@@ -9,4 +9,6 @@ Then using the amazing software called CameraMouse (http://www.cameramouse.org/)
 Tutorial coming soon. Still beta.
 
 
-https://github.com/DhSufi/VGC-Adapted-Controller/blob/main/example.jpg
+![GitHub Logo](/images/logo.png)
+Format: ![Alt Text](url)
+
