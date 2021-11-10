@@ -1,4 +1,4 @@
-# VGC-Adapted-Controller
+# VGC-Adapted-Controller (Beta)
 
 A script that allows people with disabilities to play Pokémon VGC.
 
