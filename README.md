@@ -7,3 +7,6 @@ Using an Arduino board to emulate a controller, you can use this script that rea
 Then using the amazing software called CameraMouse (http://www.cameramouse.org/) you can move the mouse over the screen and just play Pokémon
 
 Tutorial coming soon. Still beta.
+
+
+https://github.com/DhSufi/VGC-Adapted-Controller/blob/main/example.jpg
